@@ -19,7 +19,7 @@ public class Exercicio9 {
         for(int i = 0; i<x; i++)
         {
             tabuada[i] = (intNum * (i + 1));
-            textNum += i+1 + "X" + intNum + "=" + tabuada[i] + ",\n" ;
+            textNum += i + 1 + " X" + intNum + " = " + tabuada[i] + "\n" ;
         }
         JOptionPane.showMessageDialog(null, textNum );
     }

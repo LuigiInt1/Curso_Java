@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 
 import javax.swing.JOptionPane;
 
-public class Aula_2 {
+public class Aula_2_Revisão {
     public static void main(String[] args) {
         //HelloWord();
         //idade();

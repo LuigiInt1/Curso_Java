@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 
 import javax.swing.JOptionPane;
 
-public class Exercicio_1 {
+public class Exercicio_IF_ELSE {
     public static void main(String[] args) {
         String pesoString = JOptionPane.showInputDialog(null,"Qual seu peso em KG?"); 
         String alturaString = JOptionPane.showInputDialog(null,"Qual sua altura?");
